@@ -6,3 +6,6 @@
 
     [homework]gradient_linear_model.ipynb
 Ноутбук-домашнее задание по линейным моделям, градиентному спуску и нормализации.
+
+    [seminar]oop.ipynb
+Ноутбук об ООП в Python
