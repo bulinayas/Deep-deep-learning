@@ -4,24 +4,31 @@
 
 ## Ноутбуки в порядке изучения:
 
+Практический ноутбук по основам ML.
+
     [seminar,_prodv]4_ml_basics_refined.ipynb
 
-Практический ноутбук от Deep Learning School.
-
-    [homework]gradient_linear_model.ipynb
 Ноутбук-домашнее задание по линейным моделям, градиентному спуску и нормализации.
 
-    [seminar]oop.ipynb
+    [homework]gradient_linear_model.ipynb
+
 Практический ноутбук об ООП в Python.
 
-    [seminar]perceptron_new.ipynb
+    [seminar]oop.ipynb
+
 Практический ноутбук о перцептроне.
 
-    [seminar]neuron_new.ipynb
+    [seminar]perceptron_new.ipynb
+
 Практический ноутбук. Первый нейрон (функция активации sigmoid).
-    
+
+    [seminar]neuron_new.ipynb
+
+ Практический ноутбук. Нейрон с новой функцией потерь logloss.   
+ 
     [practice]neuron_logloss_new.ipynb
-Практический ноутбук. Нейрон с новой функцией потерь logloss.
-    
+
+ Ноутбук-домашнее задание по нейронам с разными функциями активации.   
+ 
     [homework]activations.ipynb
-Ноутбук-домашнее задание по нейронам с разными функциями активации.
+
