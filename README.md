@@ -6,6 +6,8 @@
 
 Практический ноутбук по основам ML.
 
+[**[seminar,_prodv]4_ml_basics_refined.ipynb**](./[seminar,_prodv]4_ml_basics_refined.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/bulinayas/Deep-deep-learning/blob/main/%5Bseminar%2C_prodv%5D4_ml_basics_refined.ipynb)
+
     [seminar,_prodv]4_ml_basics_refined.ipynb
 
 Ноутбук-домашнее задание по линейным моделям, градиентному спуску и нормализации.
