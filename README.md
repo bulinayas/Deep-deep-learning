@@ -26,4 +26,4 @@
 
 Ноутбук-домашнее задание "Побить baseline на датасете Fashionmnist": [**[homework]fashionmnist_kaggle.ipynb**](./[homework]fashionmnist_kaggle.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/bulinayas/Deep-deep-learning/blob/main/%5Bhomework%5Dfashionmnist_kaggle.ipynb)  
 
-Практический ноутбук. Практика обучения нейросетей. CIFAR10: [**[seminar1]cifar10.ipynb**](./[seminar1]cifar10.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ha0Epd3GW1aaJ2x5o-4_T1NQ8zlVC3R3#scrollTo=kRuFMmwvf4id)  
+Практический ноутбук. Практика обучения нейросетей. CIFAR10: [**[seminar1]cifar10.ipynb**](./[seminar1]cifar10.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">]([https://colab.research.google.com/drive/1ha0Epd3GW1aaJ2x5o-4_T1NQ8zlVC3R3#scrollTo=kRuFMmwvf4id](https://colab.research.google.com/drive/1ha0Epd3GW1aaJ2x5o-4_T1NQ8zlVC3R3#scrollTo=qwh-a1MR_nS9)  
